@@ -29,10 +29,6 @@
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" alt="Java Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="Python Logo" />
